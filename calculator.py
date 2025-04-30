@@ -15,6 +15,6 @@ def calc(a, b, opt):
     return c
 
 
-sum = calc(10, 20, '+')
+sum = calc(10, 20, '-')
 
 print(sum)
