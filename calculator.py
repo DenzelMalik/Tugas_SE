@@ -17,4 +17,4 @@ def calc(a, b, opt):
 
 sum = calc(10, 20, '-')
 
-print(sum)
+print(f"Hasil Operasi Kalkulator = {sum}")
